@@ -1,0 +1,5 @@
+# virtual environment file
+/venv
+/lib
+/bin
+pyvenv.cfg
